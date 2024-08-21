@@ -1,0 +1,62 @@
+[
+    {
+        "name": "PORT",
+        "value": "3001"
+    },
+    {
+        "name": "DB",
+        "value": "gis"
+    },
+    {
+        "name": "DB_USER",
+        "value": "gaadatabaseadmin"
+    },
+    {
+        "name": "DB_PW",
+        "value": "Lsztct3Gz9ka2BP9xDPeTSxfw"
+    },
+    {
+        "name": "DB_PORT",
+        "value": "5432"
+    },
+    {
+        "name": "DB_HOST",
+        "value": "gaa-database.postgres.database.azure.com"
+    },
+    {
+        "name": "PGSSLMODE",
+        "value": "require"
+    },
+    {
+        "name": "API_TOKEN",
+        "value": "q9djlg6qiuZHkKdwgX9q4YmK6a2GKer6lI2ISqFaJ9KGKpynVoHSAVIiJ1q37Th6"
+    },
+    {
+        "name": "GEOSERVER_USERNAME",
+        "value": "admin"
+    },
+    {
+        "name": "GEOSERVER_PASSWORD",
+        "value": "T^ebpxUJKtzBIydMUg3)GLLhL"
+    },
+    {
+        "name": "GEOSERVER_GAA_READONLY_USERNAME",
+        "value": "atlasafrica"
+    },
+    {
+        "name": "GEOSERVER_GAA_READONLY_PASSWORD",
+        "value": "test"
+    },
+    {
+        "name": "ALLOWED_ORIGINS",
+        "value": "https://gaa-proxy.azurewebsites.net https://geoelec-client.azurewebsites.net"
+    },
+    {
+        "name": "WEBSITE_LOGIN_USERNAME",
+        "value": "admin"
+    },
+    {
+        "name": "WEBSITE_LOGIN_PASSWORD",
+        "value": "Qj36JkIQVrCYE8mXF3TRmC4Q"
+    }
+]
